@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Flutter API & Networking App
 
 Welcome to the Week 4 deliverable of my Flutter Development Internship with **DevelopersHub Corporation**. This project marks the transition into Phase 2 of the program, focusing entirely on external data integration.
@@ -59,3 +60,7 @@ Software Engineering Undergraduate, UBIT Class of 2026
 Project Management Team Member: Microsoft Learn Student Ambassador (MLSA), Google Developer Student Clubs (GDSC)
 GitHub: @talhakhan363
 LinkedIn: www.linkedin.com/in/muhammad-talha-khan-298941212
+=======
+# flutter-api-networking
+INTERNSHIP TASK 4: A Flutter application demonstrating RESTful API integration, JSON parsing, and robust network error handling using the http package.
+>>>>>>> 700db6b77853c3bd5a723e609cff885921f2bf57
