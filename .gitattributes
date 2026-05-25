@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Tell GitHub to ignore generated native folders in language stats
+ios/* linguist-generated=true
+macos/* linguist-generated=true
+windows/* linguist-generated=true
+linux/* linguist-generated=true
+android/* linguist-generated=true
