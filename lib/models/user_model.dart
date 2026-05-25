@@ -1,0 +1,16 @@
+// --> Defines the User object
+
+// --> A custom class to map the JSON data to Dart objects
+class UserModel {
+  final int id;
+  final String name;
+  final String email;
+  final String username;
+
+  UserModel({required this.id, required this.name, required this.email, required this.username});
+
+  // --> Factory constructor to parse the JSON map into a UserModel
+  factory UserModel.fromJson(Map<String, dynamic> json) {
+    return UserModel(id: json['id'], name: json['name'], email: json['email'], username: json['username']);
+  }
+}
